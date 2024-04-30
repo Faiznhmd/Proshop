@@ -1,7 +1,7 @@
 const products = [
   {
     id: '1',
-    name: 'Product A',
+    name: 'HeadPhone',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     image: '../public/images/airpods.jpg',
     brand: 'Brand X',
@@ -9,11 +9,11 @@ const products = [
     price: 49.99,
     rating: 4.5,
     numreviews: 25,
-    countinstock: 100,
+    countinstock: 10,
   },
   {
     id: '2',
-    name: 'Product B',
+    name: 'Laptop',
     description:
       'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     image: '../public/images/airpods.jpg',
