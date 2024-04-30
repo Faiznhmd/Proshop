@@ -7,9 +7,9 @@ const App = () => {
     <>
       <Header />
       <main className="py-3">
-        <Container>dhi</Container>
-        <Footer />
+        <Container>faizan</Container>
       </main>
+      <Footer />
     </>
   );
 };
